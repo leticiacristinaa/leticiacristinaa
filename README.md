@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello World! 🌎
 
-<!--
-**leticiacristinaa/leticiacristinaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Letícia, a person who loves technology and developing new things 🖥️
 
-Here are some ideas to get you started:
+- 📚 Student of Sistem of Information.
+- 🌐 Front-end developer
+- 🔍 Looking for new opportunities
+- 👩‍🎓 Right now I'm developing new projects for my
+portfolio and studying web development
+- 🎯 Objetive: I pretend become a Full Stack developer
+- 💬 About Me: In my free time I play some games
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
