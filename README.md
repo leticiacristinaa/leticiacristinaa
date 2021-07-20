@@ -26,7 +26,7 @@
 
 ##
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/letícia-cristina-851b31183/)](https://www.linkedin.com/in/letícia-cristina-851b31183/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailtoleticiacristinadossantos123@gmail.com)](mailto:leticiacristinadossantos123@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/letícia-santos-851b31183/)](https://www.linkedin.com/in/letícia-santos-851b31183/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailtoleticiacristinadossantos123@gmail.com)](mailto:leticiacristinadossantos123@gmail.com)
 
 
 
