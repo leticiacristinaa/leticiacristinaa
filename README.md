@@ -10,6 +10,8 @@
 - 🎯 Objetive: I pretend become a Full Stack developer
 - 💬 About Me: In my free time I play some games
 
+Steam: https://steamcommunity.com/id/haruminx/
+
 <div>
   <a href="https://github.com/leticiacristinaa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticiacristinaa&show_icons=true&theme=tokyonight")/>
