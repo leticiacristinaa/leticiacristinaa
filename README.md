@@ -9,13 +9,7 @@
 - 🔍 Looking for new opportunities
 - 🎯 Objetive: I pretend become a Full Stack developer
 - 💬 About Me: In my free time I play some games
-
-<div>
-  <a href="https://github.com/leticiacristinaa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticiacristinaa&show_icons=true&theme=tokyonight")/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiacristinaa&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-    
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
